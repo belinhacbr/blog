@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Cricket Noise
 locale:           en_US
 url:
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Isabella Ribeiro
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Traveling through time'n'space discovering the wonders of programming."
   email:
   disqus-shortname:
   twitter: #username
@@ -40,16 +40,16 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: belinhacbr
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
+  instagram: belinhacbr#username
+  lastfm: belinhacbr#username
+  tumblr: cricketnoise #username
   pinterest: #username
   foursquare: #username
-  steam: #username
+  steam: selenas#username
   dribbble: #username
   youtube: #username
   soundcloud: #username
