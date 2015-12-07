@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello world!
-excerpt: "Starting point"
+excerpt: "Everything has a starting point."
 modified: 2015-12-07
 tags: [intro, hello-world]
 comments: true
