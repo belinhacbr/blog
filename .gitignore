@@ -6,3 +6,6 @@ _site
 codekit-config.json
 node_modules
 _asset_bundler_cache
+
+/_posts/*.md
+!/_posts/2015*.md
