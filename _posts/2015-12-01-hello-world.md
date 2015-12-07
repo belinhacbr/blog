@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Hello world!
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2015-12-01
+excerpt: "Starting point"
+modified: 2015-12-07
 tags: [intro, hello-world]
 comments: true
 ---
@@ -16,3 +16,7 @@ comments: true
 {:toc}
 </div>
 </section> --><!-- /#table-of-contents -->
+
+I've been thinking about doing a blog for a while, now It's time. 
+This will be a place to store all the thinking that I have after an inspiring conversation about software, FOSS, technology,  games or anything that worth to be archived.
+Here's why: I have a bad memory, that's a fact. I can't avoid it.  And sometimes ~~when it rains~~, I have this huge wave of thoughts and looks like it works like the tides, after a while it's gone. Even when I talk to someone about it, I forget and It's really annoying and embarassing. Fortunately, our ancestors overcame this kind of problem long time ago by inventing the writing, now It's time to use it in this case. See you soon earthlings!
