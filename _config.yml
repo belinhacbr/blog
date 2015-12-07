@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Isabella Ribeiro
-  avatar: bio-photo.jpg
+  avatar: https://avatars3.githubusercontent.com/u/5216794?v=3&s=460
   bio: "Traveling through time'n'space discovering the wonders of programming."
   email:
   disqus-shortname:
