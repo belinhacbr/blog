@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Cricket Noise
+title:            Cricketnoise
 locale:           en_US
-url:
+url:              http://belinhacbr.github.io/
 
 
 # Jekyll configuration
