@@ -9,7 +9,7 @@ comments: true
 
   <p>I kept on bug correction while we are trying to pick a date between all these holidays buzz to discuss about the designs. Yeah, it sums up very well what was about my second week of outreachy.</p>
 
-  <p>Although there's something bugging me. No matter how hard I try to solve as much bugs as I can, I can't get rid of the feeling that I'm slow moving and the difference that I'm making it's in fact a very tiny part of all that Polari needs. I know that all those bugs to solve aren't there waiting to be solved by me (it isn't even the point of this internship). After thinking <s>and struggling</s> for a while I came to this: 
+  <p>However there's something bugging me. No matter how hard I try to solve as much bugs as I can, I can't get rid of the feeling that I'm slow moving and the difference that I'm making it's in fact a very tiny part of all that Polari needs. I know that all those bugs to solve aren't there waiting to be solved by me (it isn't even the point of this internship). After thinking <s>and struggling</s> for a while I came to this: 
 <ul>
 	<li>I want to contribute more</li>
 	<li>I need to get better at contributing</li>
