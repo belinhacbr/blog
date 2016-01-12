@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hard hardware
-excerpt: "Week 3"
+excerpt: "Outreachy - Week 3"
 modified: 2015-12-28
 tags: [outreachy, week3, gnome, FOSS, polari, crouton]
 comments: true
