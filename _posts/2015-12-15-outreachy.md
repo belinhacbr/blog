@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outreachy!
-excerpt: "Week 1"
+excerpt: "Outreachy - Week 1"
 modified: 2015-12-15
 tags: [outreachy, week1, gnome, FOSS, polari]
 comments: true
