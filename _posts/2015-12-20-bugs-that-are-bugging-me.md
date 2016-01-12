@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bugs that are bugging me
-excerpt: "Week 2"
+excerpt: "Outreachy - Week 2"
 modified: 2015-12-20
 tags: [outreachy, week2, gnome, FOSS, polari]
 comments: true
