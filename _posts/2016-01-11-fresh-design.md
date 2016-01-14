@@ -14,6 +14,7 @@ comments: true
 	<a href="http://i.imgur.com/AXKnK0V.png"><img src="http://i.imgur.com/AXKnK0V.png"></a>
 	<figcaption><a href="http://i.imgur.com/AXKnK0V.png" title="Cool, right?">Connection popover redesigned.</a></figcaption>
 </figure>
-<p>So, I'm going to redesign the connection dialog in order to provide easier feedback about the connection. At first, it seems simple, I already worked with dialogs (which is also called popovers) while correcting bugs on polari. As always, there are some things to be implemented that seems to be tricky, but let's try not to figure out everything at once.</p>
+
+<p>I'm going to redesign the connection dialog in order to provide easier feedback about the connection. At first, it seems simple, I already worked with dialogs (which is also called popovers) while correcting bugs on polari. As always, there are some things to be implemented that seems to be tricky, but let's try not to figure out everything at once.</p>
 <p>At least not last, I wanna thank everybody involved in this mockup, you rock! ;D</p>
 <p>Since I've got a lot of work to do, I'm gonna leave you with this. See you soon earthlings!</p> 
