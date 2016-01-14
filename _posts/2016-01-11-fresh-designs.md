@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fresh design
+title: Fresh designs
 excerpt: "Outreachy - Week 4 and 5"
 modified: 2016-01-14
 tags: [outreachy, week4, week5, gnome, FOSS, polari, design, mockup]
