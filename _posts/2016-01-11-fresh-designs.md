@@ -11,8 +11,8 @@ comments: true
 <p>Now that the holidays have passed and the lives are <s>almost</s> back on track, I finally have a mockup of a feature that I'm going to implement to show you! Yay!!</p>
 
 <figure>
-	<a href="http://i.imgur.com/AXKnK0V.png"><img src="http://i.imgur.com/AXKnK0V.png"></a>
-	<figcaption><a href="" title="Cool, right?">Connection popover redesigned.</a></figcaption>
+	<a href="http://i.imgur.com/AXKnK0V.png" title="Cool, right?"><img src="http://i.imgur.com/AXKnK0V.png"></a>
+	<figcaption>Connection popover redesigned.</figcaption>
 </figure>
 
 <p>I would like to thank everybody involved in this mockup, you rock! ;D</p>
