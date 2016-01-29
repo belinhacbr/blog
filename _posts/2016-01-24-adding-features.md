@@ -15,9 +15,9 @@ The past two weeks I've been implementing the new feature of polari (you can see
 This is the pre-revision implementation:
 </p>
 <figure class="third">
-	<img src="http://i.imgur.com/PNlqYwA">
+	<a href="http://i.imgur.com/PNlqYwA" title="Connected"><img src="http://i.imgur.com/PNlqYwA"></a>
 	<img src="http://i.imgur.com/xdfL71k">
-	<img src="http://i.imgur.com/UF2RzBY"></a>
+	<img src="http://i.imgur.com/UF2RzBY">
 	<figcaption>Connection popover - Connected, Connecting and Connection error</figcaption>
 </figure>
 <p>
