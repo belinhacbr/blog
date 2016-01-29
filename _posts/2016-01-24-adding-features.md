@@ -16,8 +16,8 @@ This is the pre-revision implementation:
 </p>
 <figure class="third">
 	<a href="http://i.imgur.com/PNlqYwA" title="Connected"><img src="http://i.imgur.com/PNlqYwA"></a>
-	<img src="http://i.imgur.com/xdfL71k">
-	<img src="http://i.imgur.com/UF2RzBY">
+	<a href="http://i.imgur.com/xdfL71k" title="Connecting"><img src="http://i.imgur.com/xdfL71k"></a>
+	<a href="http://i.imgur.com/UF2RzBY" title="Connection error"><img src="http://i.imgur.com/UF2RzBY"></a>
 	<figcaption>Connection popover - Connected, Connecting and Connection error</figcaption>
 </figure>
 <p>
@@ -28,7 +28,7 @@ My biggest challenge in this implementation was the user interface. I never impl
 The worst part was not knowing how to nest objects or which class to use do to something, most of the times I didn't even know where to look for a reference, fortunately, as always, I had guidance from my mentor. 
 </p>
 <p>
-For this implementation I created <a href="https://bugzilla.gnome.org/show_bug.cgi?id=709984">this bug</a>. You can check the code and It's evolution there. ;D
+For this implementation I created <a href="https://bugzilla.gnome.org/show_bug.cgi?id=709984">this bug</a>. You can check the code and It's evolution there!
 </p>
 <p>
 Next week I'll be receiving the revision and making possible fixes in order to get everyting done for version 3.19. See you soon earthlings!
