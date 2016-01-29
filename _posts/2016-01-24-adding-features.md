@@ -14,7 +14,7 @@ The past two weeks I've been implementing the new feature of polari (you can see
 <p>
 This is the pre-revision implementation:
 </p>
-<figure class="third">
+<figure>
 	<a href="http://i.imgur.com/CyCD2Ai" title="Connected"><img src="http://i.imgur.com/CyCD2Ai.png"></a>
 	<a href="http://i.imgur.com/RP0P7ZS" title="Connecting"><img src="http://i.imgur.com/RP0P7ZS.png"></a>
 	<a href="http://i.imgur.com/EFz3K2h" title="Connection error"><img src="http://i.imgur.com/EFz3K2h.png"></a>
