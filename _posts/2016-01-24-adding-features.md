@@ -15,7 +15,8 @@ The past two weeks I've been implementing the new feature of polari (you can see
 This is the pre-revision implementation:
 </p>
 <figure class="third">
-	<a href="http://i.imgur.com/CyCD2Ai" title="Connected"><img src="http://i.imgur.com/CyCD2Ai"></a>
+<img src="http://i.imgur.com/AXKnK0V.png">
+	<!-- <a href="http://i.imgur.com/CyCD2Ai" title="Connected"><img src="http://i.imgur.com/CyCD2Ai"></a> -->
 	<a href="http://i.imgur.com/RP0P7ZS" title="Connecting"><img src="http://i.imgur.com/RP0P7ZS"></a>
 	<a href="http://i.imgur.com/EFz3K2h" title="Connection error"><img src="http://i.imgur.com/EFz3K2h"></a>
 	<figcaption>Connection popover - Connected, Connecting and Connection error</figcaption>
