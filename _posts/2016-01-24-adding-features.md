@@ -16,9 +16,15 @@ This is the pre-revision implementation:
 </p>
 <figure>
 	<a href="http://i.imgur.com/CyCD2Ai" title="Connected"><img src="http://i.imgur.com/CyCD2Ai.png"></a>
+	<figcaption>Connection popover - Connected</figcaption>
+</figure>
+<figure>
 	<a href="http://i.imgur.com/RP0P7ZS" title="Connecting"><img src="http://i.imgur.com/RP0P7ZS.png"></a>
+	<figcaption>Connection popover - Connecting</figcaption>
+</figure>	
+<figure>
 	<a href="http://i.imgur.com/EFz3K2h" title="Connection error"><img src="http://i.imgur.com/EFz3K2h.png"></a>
-	<figcaption>Connection popover - Connected, Connecting and Connection error</figcaption>
+	<figcaption>Connection popover - Connection error</figcaption>
 </figure>
 <p>
 Basically, I had to add the change an existing error popover and make it show in every status. To do this, I had to modify a function to update the status label which is called when the connection status change. 
