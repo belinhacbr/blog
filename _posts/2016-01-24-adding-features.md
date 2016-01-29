@@ -14,13 +14,11 @@ The past two weeks I've been implementing the new feature of polari (you can see
 <p>
 This is the pre-revision implementation:
 </p>
-<figure>
-	<a href="http://i.imgur.com/PNlqYwA" title="Connected"><img src="http://i.imgur.com/PNlqYwA"></a>
-	<figcaption>Connection popover - Connected</figcaption>
-	<a href="http://i.imgur.com/xdfL71k" title="Connecting"><img src="http://i.imgur.com/xdfL71k"></a>
-	<figcaption>Connection popover - Connecting</figcaption>
-	<a href="http://i.imgur.com/UF2RzBY" title="Connection error"><img src="http://i.imgur.com/UF2RzBY"></a>
-	<figcaption>Connection popover - Connection error</figcaption>
+<figure class="third">
+	<img src="http://i.imgur.com/PNlqYwA">
+	<img src="http://i.imgur.com/xdfL71k">
+	<img src="http://i.imgur.com/UF2RzBY"></a>
+	<figcaption>Connection popover - Connected, Connecting and Connection error</figcaption>
 </figure>
 <p>
 Basically, I had to add the change an existing error popover and make it show in every status. To do this, I had to modify a function to update the status label which is called when the connection status change. 
@@ -31,5 +29,7 @@ The worst part was not knowing how to nest objects or which class to use do to s
 </p>
 <p>
 For this implementation I created <a href="https://bugzilla.gnome.org/show_bug.cgi?id=709984">this bug</a>. You can check the code and It's evolution there. ;D
+</p>
+<p>
 Next week I'll be receiving the revision and making possible fixes in order to get everyting done for version 3.19. See you soon earthlings!
 </p>
