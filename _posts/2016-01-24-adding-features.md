@@ -27,7 +27,7 @@ This is the pre-revision implementation:
 	<figcaption>Connection popover - Connection error</figcaption>
 </figure>
 <p>
-Basically, I had to add the change an existing error popover and make it show in every status. To do this, I had to modify the code to update the status label when the connection status change. 
+Basically, I had to change an existing error popover and make it show in every status. To do this, I had to modify the code to update the status label when the connection status change. 
 </p>
 <p>
 My biggest challenge in this implementation was the user interface. I never implemented an interface with Gtk before and I found myself hitting the wall many times. 
