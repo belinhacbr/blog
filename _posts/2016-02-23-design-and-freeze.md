@@ -11,7 +11,7 @@ comments: true
 <p> The Freeze is part of the 6-month release schedule and consists of three freezes and the string change announcement period.
 This period of the schedule work in favour of GNOME contributors to help them coordinate their work 
 (since there are many contribuitors out there) and to increase quality. Basically, everybody slow down the adding features work in order to stabilise the branch for the release.</p> 
-<p> But here comes a new challenge: I received this designs to work on.</p>
+<p> But here comes a new challenge: I received this design to work on.</p>
 <figure>
 	<a href="http://i.imgur.com/NhPUp8s.png" title="Awe-some"><img src="http://i.imgur.com/NhPUp8s.png"></a>
 	<figcaption>Join-room dialog redesigned.</figcaption>
