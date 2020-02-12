@@ -9,11 +9,10 @@
 $doc-font-size: 16;
 $doc-line-height: 26;
 $paragraph-indent: true !default;
-$base-font: 'PT Serif', serif;
-$heading-font: 'PT Sans Narrow', sans-serif;
-$code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+$base-font: 'IBM Plex Sans', sans-serif;
+$heading-font: 'Press Start 2P', cursive;
+$code-font: Monaco, 'IBM Plex Mono', monospace;
 $alt-font: $base-font;
-
 /*
    Colors
    ========================================================================== */
